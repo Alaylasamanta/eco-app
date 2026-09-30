@@ -1,0 +1,2 @@
+# eco-app
+Aplicativo para localizar Ecopontos próximos a você, e sistema de inteligência para reconhecer tipos de materiais recicláveis. 
